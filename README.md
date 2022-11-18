@@ -6,8 +6,8 @@ The survey was given to a school district's students, staff, and parents about t
 
 We preprocessed the raw text responses by combining all responses from all three groups together for each question. We tracked metadata for the source of each response (student, staff, parent): 
 
-    For Q1 technology challenges: 7040 documents by 1093 term; 
-    For Q2 improving remote learning: 8659 documents by 1642 terms
+    For Q1 technology challenges: 7527 documents by 1206 term; 
+    For Q2 improving remote learning: 8967 documents by 1840 terms
 
 Additional processing:
     (1). Convert terms to lower case and remove punctuation; 
